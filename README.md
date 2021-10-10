@@ -1,8 +1,22 @@
-### Hi there 👋,I am Saswat Suvam Kumar
+<h1 align="center">Hi 👋, I'm SASWAT SUVAM KUMAR</h1>
+<h3 align="center">Interested in web Dev</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ssk525&label=Profile%20views&color=0e75b6&style=flat" alt="ssk525" /> </p>
 
-- 🔭 I’m currently working on Web Dev Projects
-- 🌱 I’m currently learning Web Dev
-- 👯 I’m looking to collaborate on Web Dev projects 
-- 📫 How to reach me:
-- 😄 Pronouns: SSk
+- 🌱 I’m currently learning **Frontend Web development**
+
+- Reach Me **suvamkumar525@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/suvamkumarr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="suvamkumarr" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/saswat-suvam-kumar-8b3581208" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saswat-suvam-kumar-8b3581208" height="30" width="40" /></a>
+<a href="https://instagram.com/_s_s.k_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_s_s.k_" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ssk525&show_icons=true&locale=en" alt="ssk525" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ssk525&" alt="ssk525" /></p>
