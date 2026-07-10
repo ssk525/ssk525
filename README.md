@@ -1,10 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7dd3fc,100:0ea5e9&height=180&section=header&text=Saswat%20Suvam%20Kumar&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=ML%20Engineer%20%7C%20Computer%20Vision%20%26%20Edge%20AI&descAlignY=55&descSize=16"/>
-
-<br/>
-
-<img src="https://avatars.githubusercontent.com/u/91469183?v=4" width="130" style="border-radius:50%; border: 3px solid #7dd3fc;" alt="Saswat Suvam Kumar"/>
+![header](https://raw.githubusercontent.com/ssk525/ssk525/main/assets/header.svg)
 
 <br/><br/>
 
@@ -12,9 +8,8 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=ssk525&label=Profile%20Views&color=7dd3fc&style=for-the-badge" alt="Profile views"/>
-&nbsp;
-<img src="https://img.shields.io/github/followers/ssk525?label=Followers&style=for-the-badge&color=7dd3fc&logo=github" alt="GitHub followers"/>
+![Profile Views](https://komarev.com/ghpvc/?username=ssk525&label=Profile%20Views&color=7dd3fc&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/ssk525?label=Followers&style=for-the-badge&color=7dd3fc&logo=github)
 
 </div>
 
@@ -22,42 +17,76 @@
 
 ## 👨‍💻 Who I Am
 
-```typescript
-const saswat = {
-  title: "ML Engineer",
-  location: "Brahmapur, Odisha, India",
-  education: "M.Tech (Research) — Signal & Image Processing @ NIT Rourkela",
-  currentRoles: [
-    "Project Engineer (AI/ML & Deployment) @ DRDO",
-    "Teaching Assistant (AI/ML & Signal Processing) @ NIT Rourkela",
-  ],
-  stack: [
-    "Python", "PyTorch", "TensorFlow", "LangChain", "LangGraph",
-    "Computer Vision", "Video Super-Resolution", "Generative AI",
-    "TensorRT", "ONNX Runtime", "NVIDIA Jetson", "Docker",
-    "FastAPI", "Flask", "PostgreSQL", "ChromaDB", "Streamlit",
-  ],
-  launchedProjects: [
-    "Production-Grade RAG Pipeline",
-    "Agentic Research Assistant",
-    "Academic Research Multi-Agent System",
-    "FRVSR-GAN — Frame-Recurrent Video Super-Resolution",
-  ],
-  certifications: [
-    "Cognizant Agile Methodology Virtual Experience Program",
-    "Accenture Developer Virtual Experience Program",
-  ],
-  publications: [
-    "GANs for Single Image Super Resolution: Analysis on Recent Insights — IEEE ICICNCT 2025",
-    "Edge-Guided Perceptual Optimization for Infrared Video Space-Time Super-Resolution — Image and Vision Computing (Elsevier), 2026",
-  ],
-  status: "Bridging research-grade AI with production deployment at the edge",
-};
-```
+<table>
+<tr>
+<td width="60%" valign="top">
+
+**ML Engineer** · Brahmapur, Odisha, India
+
+M.Tech researcher and ML Engineer turning **deep learning research** into **deployable systems** — from infrared video super-resolution at DRDO to production RAG pipelines, multi-agent research assistants, and edge-optimized inference on NVIDIA Jetson.
 
 <br/>
 
-> M.Tech researcher and ML Engineer turning **deep learning research** into **deployable systems** — from infrared video super-resolution at DRDO to production RAG pipelines, multi-agent research assistants, and edge-optimized inference on NVIDIA Jetson.
+🎓 **Education** — M.Tech (Research), Signal & Image Processing @ **NIT Rourkela**
+
+💼 **Currently**
+- Project Engineer (AI/ML & Deployment) @ **DRDO**
+- Teaching Assistant (AI/ML & Signal Processing) @ **NIT Rourkela**
+
+</td>
+<td width="40%" valign="top">
+
+**Core Stack**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-7dd3fc?style=flat-square&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![TensorRT](https://img.shields.io/badge/TensorRT-76B900?style=flat-square&logo=nvidia&logoColor=white)
+
+<br/>
+
+**Focus Areas**
+
+Computer Vision · Video Super-Resolution · Generative AI · Edge AI · RAG · Multi-Agent Systems
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 🗓️ 50-Day Engineering Challenge
+
+I'm running a **50-day open-source build** — one repository per day, documented for learning and interview readiness.
+
+| Sprint | Focus | Capstone |
+|:-------|:------|:---------|
+| 1 · Days 1–10 | OpenCV & image processing | `mini-image-processing-toolbox` |
+| 2 · Days 11–20 | PyTorch & CNNs | `computer-vision-toolkit` |
+| 3 · Days 21–30 | Paper reproductions & SR | `research-toolkit` |
+| 4 · Days 31–40 | ONNX → TensorRT → Jetson | `production-ai-toolkit` |
+| 5 · Days 41–50 | Portfolio polish & flagship | Edge AI vision system |
+
+📋 **Day 1 playbook:** [github-profile-optimization](https://github.com/ssk525/github-profile-optimization) — pin strategy, bio templates, portfolio audit.
+
+<br/>
+
+| | |
+|:--|:--|
+| 🚀 **Projects** | Production-Grade RAG Pipeline · Agentic Research Assistant · Academic Research Multi-Agent System · FRVSR-GAN |
+| 📜 **Publications** | [IEEE ICICNCT 2025](https://ieeexplore.ieee.org/abstract/document/11232799) · [Image and Vision Computing, Elsevier 2026](https://www.sciencedirect.com/science/article/pii/S0262885626002155) |
+| 🏅 **Certifications** | Cognizant Agile Methodology · Accenture Developer Virtual Experience |
+
+---
+
+## 📚 Recommended Learning
+
+| Resource | Description |
+|:---------|:------------|
+| [**Deep Learning Specialization (my fork)**](https://github.com/ssk525/coursera-deep-learning-specialization) | Andrew Ng's Coursera DL course — notes, assignments & quiz solutions. Forked from [amanchadha](https://github.com/amanchadha/coursera-deep-learning-specialization) with my study guide in [MY_NOTES.md](https://github.com/ssk525/coursera-deep-learning-specialization/blob/master/MY_NOTES.md) |
+| [**Official Course**](https://www.coursera.org/specializations/deep-learning) | Enroll on Coursera (deeplearning.ai) — always do assignments yourself first |
 
 ---
 
@@ -77,9 +106,7 @@ const saswat = {
 <tr>
 <td width="50%" valign="top">
 
-### 🔍 Production-Grade RAG Pipeline
-
-[![rag-pipeline](https://github-readme-stats.vercel.app/api/pin/?username=ssk525&repo=rag-pipeline&theme=nord&hide_border=false&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9&icon_color=7dd3fc)](https://github.com/ssk525/rag-pipeline)
+### 🔍 [Production-Grade RAG Pipeline](https://github.com/ssk525/rag-pipeline)
 
 Retrieval-augmented generation with semantic chunking, hybrid search (BM25 + vector), Cohere reranking, and inline citations — rigorously evaluated with Ragas on a 25-question test set.
 
@@ -97,9 +124,7 @@ Retrieval-augmented generation with semantic chunking, hybrid search (BM25 + vec
 </td>
 <td width="50%" valign="top">
 
-### 🤖 Agentic Research Assistant
-
-[![agentic-research-assistant](https://github-readme-stats.vercel.app/api/pin/?username=ssk525&repo=agentic-research-assistant&theme=nord&hide_border=false&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9&icon_color=7dd3fc)](https://github.com/ssk525/agentic-research-assistant)
+### 🤖 [Agentic Research Assistant](https://github.com/ssk525/agentic-research-assistant)
 
 Production-grade multi-agent system on LangGraph — a **Planner → Worker → Critic** loop with RAG, SQL, and web-search tools, Langfuse observability, and a Ragas eval suite.
 
@@ -119,9 +144,7 @@ Production-grade multi-agent system on LangGraph — a **Planner → Worker → 
 <tr>
 <td colspan="2" valign="top">
 
-### 🎓 Academic Research Multi-Agent System
-
-[![academic-research-agent](https://github-readme-stats.vercel.app/api/pin/?username=ssk525&repo=academic-research-agent&theme=nord&hide_border=false&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9&icon_color=7dd3fc)](https://github.com/ssk525/academic-research-agent)
+### 🎓 [Academic Research Multi-Agent System](https://github.com/ssk525/academic-research-agent)
 
 Three collaborating agents — **Librarian**, **Researcher**, and **Editor** — that search academic papers across Arxiv, CrossRef, Semantic Scholar & IEEE, analyze findings, and generate a research intelligence report.
 
@@ -141,80 +164,11 @@ Three collaborating agents — **Librarian**, **Researcher**, and **Editor** —
 
 ---
 
-## 🔬 Research Focus
-
-<p align="center">
-
-![Video Super-Resolution](https://img.shields.io/badge/Video_Super--Resolution-7dd3fc?style=for-the-badge&logoColor=black)
-![Computer Vision](https://img.shields.io/badge/Computer_Vision-7dd3fc?style=for-the-badge&logoColor=black)
-![Infrared Imaging](https://img.shields.io/badge/Infrared_Imaging-7dd3fc?style=for-the-badge&logoColor=black)
-![Generative AI](https://img.shields.io/badge/Generative_AI-7dd3fc?style=for-the-badge&logoColor=black)
-![Edge AI](https://img.shields.io/badge/Edge_AI-7dd3fc?style=for-the-badge&logoColor=black)
-![Multi--Agent Systems](https://img.shields.io/badge/Multi--Agent_Systems-7dd3fc?style=for-the-badge&logoColor=black)
-![RAG](https://img.shields.io/badge/RAG-7dd3fc?style=for-the-badge&logoColor=black)
-
-</p>
-
----
-
 ## 🛠️ Tech Stack
-
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-**AI / ML**
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-
-**Backend & Deployment**
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-**Database & Edge**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![NVIDIA](https://img.shields.io/badge/NVIDIA_Jetson-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-
-<br/>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,c,cpp,pytorch,tensorflow,docker,linux,git,fastapi,flask,postgres&perline=11" alt="Tech icons"/>
 </p>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ssk525&show_icons=true&theme=nord&hide_border=false&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=c9d1d9&include_all_commits=true&count_private=false"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssk525&layout=compact&theme=nord&hide_border=false&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9&langs_count=8"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ssk525&theme=nord&hide_border=false&border=7dd3fc&stroke=7dd3fc&ring=7dd3fc&fire=7dd3fc&currStreakLabel=7dd3fc&sideLabels=FFFFFF&dates=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub streak"/>
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=ssk525&theme=nord&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub trophies"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ssk525&theme=nord&bg_color=2e3440&color=7dd3fc&line=7dd3fc&point=ffffff&area=true&hide_border=false&border_color=7dd3fc" alt="Contribution graph"/>
-
-</div>
 
 ---
 
@@ -241,6 +195,6 @@ Three collaborating agents — **Librarian**, **Researcher**, and **Editor** —
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7dd3fc,100:0ea5e9&height=120&section=footer&text=Thanks%20for%20visiting!%20Let's%20build%20something%20impactful.&fontSize=18&fontColor=ffffff&animation=twinkling"/>
+![footer](https://raw.githubusercontent.com/ssk525/ssk525/main/assets/footer.svg)
 
 </div>
