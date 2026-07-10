@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 160" width="1600" height="160" role="img" aria-label="Thanks for visiting">
+  <defs>
+    <linearGradient id="fbg" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#7dd3fc"/>
+      <stop offset="100%" stop-color="#0ea5e9"/>
+    </linearGradient>
+  </defs>
+  <rect width="1600" height="160" fill="url(#fbg)"/>
+  <path d="M0,60 C200,90 400,30 600,55 C800,80 1000,25 1200,50 C1400,75 1500,45 1600,55 L1600,0 L0,0 Z" fill="#ffffff" fill-opacity="0.18"/>
+  <path d="M0,40 C220,65 420,20 640,40 C860,60 1060,20 1260,40 C1420,55 1520,30 1600,40 L1600,0 L0,0 Z" fill="#ffffff" fill-opacity="0.12"/>
+  <text x="800" y="110" text-anchor="middle" fill="#ffffff" font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="22" font-weight="600" letter-spacing="1.5">Thanks for visiting &#8226; Let's build something impactful</text>
+</svg>
